@@ -1,0 +1,16 @@
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\bin\Debug\ProvaConceitoIveco.exe.config
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\bin\Debug\ProvaConceitoIveco.exe
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\bin\Debug\ProvaConceitoIveco.pdb
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\obj\Debug\ProvaConceitoIveco.csproj.AssemblyReference.cache
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\obj\Debug\ProvaConceitoIveco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\obj\Debug\ProvaConceitoIveco.Form1.resources
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\obj\Debug\ProvaConceitoIveco.Properties.Resources.resources
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\obj\Debug\ProvaConceitoIveco.csproj.GenerateResource.cache
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\obj\Debug\ProvaConceitoIveco.csproj.CoreCompileInputs.cache
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\obj\Debug\ProvaConceitoIveco.exe
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\obj\Debug\ProvaConceitoIveco.pdb
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\bin\Debug\WebDriver.dll
+C:\Users\Auditeste0367\Desktop\IVECO\ProvaConceitoIveco\obj\Debug\ProvaConceitoIveco.csproj.CopyComplete
